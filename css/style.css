@@ -343,7 +343,7 @@ section>.container>.info h2 {
     }
 }
 
-@media (max-width:375px) {
+@media (max-width:400px) {
     section>.container>.info h2 {
         line-height: 1.3;
         font-size: 32px;
@@ -385,7 +385,7 @@ section>.container>.info input:hover {
     color: var(--very-light-red);
 }
 
-@media (max-width:375px){
+@media (max-width:400px){
     section>.container>.info input {
         padding:10px 15px;
         margin: 0 5px;
